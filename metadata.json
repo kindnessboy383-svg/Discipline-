@@ -1,0 +1,6 @@
+{
+  "name": "DISCIPLINE X",
+  "description": "Premium productivity, discipline coaching, daily routine, timetable, habit tracking, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
